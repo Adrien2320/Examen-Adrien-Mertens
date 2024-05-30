@@ -45,6 +45,7 @@ section {
     background-color: #743da7;
     padding: 20px;
     margin-bottom: 20px;
+    display: flex;
 }
 
 section h2 {
@@ -55,6 +56,12 @@ section h2 {
 
 section p{
     color: #302439;
+}
+
+section img{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
 }
 
 h1 {

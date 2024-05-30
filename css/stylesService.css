@@ -58,16 +58,24 @@ section {
     background-color: #743da7;
     padding: 20px;
     margin-bottom: 20px;
+    display: flex;
 }
 
+
+
 section h2 {
-    text-align: center;
     padding: 10px 0;
 }
 
 section p {
     color: #281e30;
     text-align: justify;
+}
+
+section img{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
 }
 
 table {
